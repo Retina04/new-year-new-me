@@ -3,7 +3,7 @@
   margin: 0px;
   font-family: "Work Sans", sans-serif;
 }
-/* about nav bar */
+/*  nav bar style */
 .nav-container {
   display: flex;
   padding: 10px;
@@ -26,7 +26,7 @@
   padding: 10px;
   margin-right: 10px;
 }
-/* Banner */
+/* Banner Style */
 .banner-container {
   background-image: url(./assests/mbanner.jpg);
 
@@ -69,10 +69,12 @@
   border: 0;
   padding: 10px 20px;
 }
+/* main part styling */
 main {
   max-width: 1140px;
   margin: 0 auto;
 }
+/* future styling */
 .about {
   display: flex;
   margin-top: 1000px;
@@ -183,21 +185,24 @@ main {
   font-weight: 700;
   font-size: 20px;
   width: 160px;
-  height: 64px;
+  height: 55px;
   border-radius: 5px;
   background: #ffffff;
   border: 0;
   margin-top: 25px;
   margin-left: 65px;
 }
+/* footer styling */
 .submission {
   background-color: #151414;
+  height: 450px;
 }
 .sub {
   display: flex;
   gap: 330px;
   padding-top: 100px;
 }
+/* part-1 styling */
 .part-1 {
   padding-left: 230px;
   width: 485px;
@@ -237,6 +242,7 @@ main {
   line-height: 26px;
   margin-bottom: 32px;
 }
+/* part-2 styling */
 .subscribe {
   font-weight: 600;
   font-size: 25px;
@@ -257,8 +263,8 @@ input {
   color: #fd6e0a;
   font-weight: 700;
   font-size: 20px;
-  width: 160px;
-  height: 64px;
+  width: 150px;
+  height: 50px;
 
   background: #ffffff;
   border: 0;
