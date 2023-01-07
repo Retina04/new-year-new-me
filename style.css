@@ -164,8 +164,9 @@ main {
   margin-top: 130px;
 }
 .watch {
-  background-image: url(./assests/watch.png), url(./assests/gradient2.png);
-  /* linear-gradient(rgba(148, 0, 19, 0.4), rgba(161, 0, 0, 0.4)); */
+  background-image: url(./assests/watch.png), url(./assests/gradient2.png),
+    linear-gradient(rgba(170, 47, 47, 0.1), rgba(157, 45, 45, 0.1));
+
   background-blend-mode: overlay;
   /* background-image: url(./assests/gradient1.png);
   background-blend-mode: overlay; */
