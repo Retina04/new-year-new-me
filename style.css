@@ -29,6 +29,7 @@
 }
 /* Banner Style */
 .banner-container {
+  padding-top: 150px;
   background-image: url(./assests/mbanner.jpg);
 
   position: absolute;
